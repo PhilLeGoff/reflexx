@@ -8,9 +8,16 @@ Un produit de fidélité qui relie les interfaces commerçants, les parcours mob
 
 **Angular · Flutter · TypeScript · Node.js · Express · Prisma · PostgreSQL**
 
-![Interface réelle de Reflexx](../assets/interface.png)
+![Tableau de bord commerçant Reflexx avec données fictives](../assets/dashboard-overview.png)
 
-*Interface publique du produit capturée localement. Les chiffres du tableau de bord intégré sont une illustration marketing, pas un usage client. La capture ne démontre pas un usage de production.*
+<details>
+<summary>Statistiques de fidélité</summary>
+
+![Statistiques de fidélité Reflexx avec données fictives](../assets/dashboard-statistics.png)
+
+</details>
+
+*Interface réelle capturée sur localhost:4200 avec des données de démonstration. Le commerce, les graphiques et les chiffres sont fictifs ; ils ne représentent ni clients réels ni usage du produit.*
 
 ## Fonctionnalités
 
@@ -37,7 +44,7 @@ Je co-développe Reflexx avec deux autres ingénieurs au sein d’un projet entr
 
 ## Installation et consultation
 
-Ce dépôt ne distribue ni le code applicatif ni une démonstration hébergée. L’environnement privé contient les applications Angular, Flutter et Node.js, adossées à PostgreSQL. La capture représente l’interface publique réelle du produit, sans revendiquer d’usage client.
+Ce dépôt ne distribue ni le code applicatif ni une démonstration hébergée. L’environnement privé contient les applications Angular, Flutter et Node.js, adossées à PostgreSQL. Les captures représentent le tableau de bord commerçant réel, exécuté localement avec des données fictives, sans lecture de comptes réels ni usage client revendiqué.
 
 ## État actuel et limites
 

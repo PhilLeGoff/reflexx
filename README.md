@@ -8,9 +8,16 @@ A cross-platform loyalty product connecting merchant management interfaces, mobi
 
 **Angular · Flutter · TypeScript · Node.js · Express · Prisma · PostgreSQL**
 
-![Real Reflexx interface; see the screenshot context below](assets/interface.png)
+![Reflexx merchant dashboard with synthetic demonstration data](assets/dashboard-overview.png)
 
-*Screenshot context: real product marketing interface captured locally; inset dashboard figures are illustrative marketing content, not customer usage. The image does not establish live backend or production usage.*
+<details>
+<summary>Loyalty statistics dashboard</summary>
+
+![Reflexx loyalty statistics with synthetic demonstration data](assets/dashboard-statistics.png)
+
+</details>
+
+*Real dashboard captured at localhost:4200 with synthetic browser fixtures. The merchant, charts and figures are demonstration data, not actual customers or product usage.*
 
 ## What it does
 
@@ -37,7 +44,7 @@ I co-build Reflexx with two other engineers within a four-person venture, and co
 
 ## Running and inspecting the project
 
-No application source or hosted demo is distributed in this repository. The private development environment contains separate Angular, Flutter and Node.js applications backed by PostgreSQL. The screenshot shows the real public-facing product interface; it makes no claim about customer usage.
+No application source or hosted demo is distributed in this repository. The private development environment contains separate Angular, Flutter and Node.js applications backed by PostgreSQL. The screenshots show the real merchant dashboard rendered locally with synthetic data. No real account operations or backend data were used.
 
 ## Current state and limitations
 
